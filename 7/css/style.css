@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* @media screen and (max-width:600px){
+    h1
+    {
+        text-align: center;
+        color: aqua;
+        font-size: 100;
+        text-decoration: underline;
+        font-size: 20px;
+    }
+
+    img
+    {
+        size: 30px;
+    }
+    
+} */
+
+/* @media screen and (max-width:600px)
+{
+    
+} */
