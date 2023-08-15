@@ -1,0 +1,90 @@
+/* .box{
+    width: 100px;
+    height: 100vh;
+    background-color: antiquewhite;
+    display: none;
+} */
+
+/* .box{
+    width: 400px;
+    height: 400vh;
+    background-color: antiquewhite;
+    display: none;
+} */
+
+/* .box{
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+   
+}
+.red .green .blue .yellow
+{
+    width: 200px;
+    height: 200px;
+    display: none;
+}
+.red{
+   
+    background-color: red;
+}
+
+.green{
+    
+    background-color: green;
+}
+
+.blue{
+   
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+} */
+
+/* header
+{
+    width: 100%;
+    height: 150px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+nav{
+    width: 70%;
+    height: 100px;
+    background-color: black;
+    border-radius: 20px;
+    position: fixed;
+    top: 40px;
+    transition: 50%;
+} */
+
+/* .box{
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    top: 0;
+}
+#box2{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+} */
