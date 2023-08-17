@@ -1,0 +1,86 @@
+/* .box{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+} */
+
+/* input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+} */
+
+/* table, tr, th, td {
+    border: 2px red solid;
+    background-color: antiquewhite;
+  }
+
+  table {
+    width: 50%;
+  }
+
+  td {
+    text-align: center;
+  }
+
+  th, td {
+    border-bottom: 1px solid #ddd;
+  } */
+
+
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: #bd777d;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #7a9cbb;
+  }
+  
+  div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+
+
+
+  #countries1 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #countries1 td, #countries1 th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #countries1 tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #countries1 tr:hover {background-color: #ddd;}
+  
+  #countries1 th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    background-color: #668ea0;
+    color: white;
+  }
